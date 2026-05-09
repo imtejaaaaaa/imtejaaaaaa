@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi👋
+I'm TEJA,
+- I don’t know coding like professionals do.
+I only know the basics, and I still don’t know whether to call myself a frontend developer, software engineer, or something else.
 
-<!--
-**imtejaaaaaa/imtejaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- What drives me "is curiosity"
+I always want to understand how things work behind the scenes, and that curiosity pushes me to keep learning and building.
 
-Here are some ideas to get you started:
+Right now I’m exploring creative web experiences, motion, UI interactions, and whatever catches my attention enough to make me want to build it.
+Most projects start as experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don’t stick to a fixed set of tools.
+It depends on the idea.
+If I want to build something, I learn whatever is required to make it happen.
+That process usually leads me to discover new tools, technologies, and workflows along the way.
+
+You can contact me through instagram ! <!-- My github profile does not contain 10x engineer content -->
